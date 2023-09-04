@@ -1,0 +1,11 @@
+ruff
+black
+
+requests
+duckdb
+
+openpyxl
+
+pandas
+chainladder
+tryangle
